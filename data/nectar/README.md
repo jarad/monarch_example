@@ -16,3 +16,6 @@ Create the raw data file as
 
     site_transect_round.csv
     
+When scanned data sheet and raw data file are entered, commit the change using the following message
+
+    Add YYYY/MM/DD site_transect_round
